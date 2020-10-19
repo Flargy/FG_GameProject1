@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb8a354-e130-4c71-ae93-5b8e49c3b681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/TimeScaleTesting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystems/StopFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystems/CrossFade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystems/UITimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystems/XRayFaceCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/CrossFadeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/RigidbodyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameSystems/UnicornStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/DropGum.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/PhysicsComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/UnicornEnum.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/PointHandeler.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/PlayerInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/RigidbodyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/UnicornEnumTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/UnicornPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/SpawnSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/PointCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/BubbleObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/RigidbodyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/UITimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChewingGum.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/UnicornEnumTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CapturedEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/S_xRayObstacle.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/S_xRayPlayer.shader" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Materials/s_xRayObstacle.shader" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Materials/s_xRayTest.shader" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Materials/s_xRayOld.shader" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Materials/s_xRayObstacleOld.shader" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Materials/s_StandardObstacleXRay.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/s_ObstacleXRay.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/s_PlayerXray.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/UnicornEnum.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/CrossFadeTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/PersonalFolders/Marcus/Scripts/TimeScaleTesting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/StopFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/ParticleSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/PointHandeler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/SpawnSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/UnicornPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/UnicornStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/XRayFaceCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/DropGum.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/PointCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/CrossFade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/TimeLimit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/NewPlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSystems/HighscoreTable.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVJOk8hYSxzdrddYcicra0D0d6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../../../../TestBuild\Unicorn Trafficking.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\TestBuild" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb8a354-e130-4c71-ae93-5b8e49c3b681" name="Default Changelist" comment="" />
+      <created>1601986797738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601986797738</updated>
+      <workItem from="1601986804828" duration="8269000" />
+      <workItem from="1602053636216" duration="26788000" />
+      <workItem from="1602141243677" duration="6408000" />
+      <workItem from="1602156205051" duration="135000" />
+      <workItem from="1602156846901" duration="9506000" />
+      <workItem from="1602229176439" duration="1000" />
+      <workItem from="1602234183416" duration="13027000" />
+      <workItem from="1602485281940" duration="11223000" />
+      <workItem from="1602503149373" duration="4004000" />
+      <workItem from="1602510360760" duration="2491000" />
+      <workItem from="1602574253698" duration="22468000" />
+      <workItem from="1602659720227" duration="26384000" />
+      <workItem from="1602745660273" duration="26954000" />
+      <workItem from="1602778535783" duration="1689000" />
+      <workItem from="1602780269356" duration="3769000" />
+      <workItem from="1602790506439" duration="4899000" />
+      <workItem from="1603047974754" duration="716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="224" key="SettingsEditor" timestamp="1602072309558">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="224" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1602072309558" />
+    <state x="682" y="492" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602801368212">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="682" y="492" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602801368212" />
+  </component>
+</project>

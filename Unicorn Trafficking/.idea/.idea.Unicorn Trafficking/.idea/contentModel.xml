@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\marlu\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marlu\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Unicorn Trafficking.-1708993515.00" t="ExcludeRecursive" />
+    <e p="D:\Perforce\Projects\FG20FT_GP_Team_7\FG20FT_GP_Team_7\Unity\Unicorn Trafficking" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Particle Effects" t="Include">
+          <e p="A File.txt" t="Include" />
+        </e>
+        <e p="PersonalFolders" t="Include">
+          <e p="Enok" t="Include">
+            <e p="Prefabs" t="Include">
+              <e p="Test.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Marcus" t="Include">
+            <e p="Materials" t="Include">
+              <e p="s_StandardObstacleXRay.shader" t="Include" />
+              <e p="S_xRayObstacle.shader" t="Include" />
+              <e p="s_xRayObstacleOld.shader" t="Include" />
+              <e p="s_xRayOld.shader" t="Include" />
+              <e p="s_xRayTest.shader" t="Include" />
+              <e p="testshader.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="BubbleObjectPool.cs" t="Include" />
+              <e p="CrossFadeTest.cs" t="Include" />
+              <e p="HelpClass.cs" t="Include" />
+              <e p="PhysicsComponent.cs" t="Include" />
+              <e p="PlayerMovement.cs" t="Include" />
+              <e p="TimeScaleTesting.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Prefabs" t="Include">
+          <e p="Sprites" t="Include">
+            <e p="A File.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ScriptableObjects" t="Include">
+          <e p="A File.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BubbleGun.cs" t="Include" />
+          <e p="BubbleProjectile.cs" t="Include" />
+          <e p="CamScript.cs" t="Include" />
+          <e p="CapturedEnemy.cs" t="Include" />
+          <e p="CheckPlayerVelocity.cs" t="Include" />
+          <e p="CheckUnicornVelocity.cs" t="Include" />
+          <e p="ChewingGum.cs" t="Include" />
+          <e p="ChewingGumDebuff.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="FloatingPlatformEditor.cs" t="Include" />
+            <e p="ProximityDetectorEditor.cs" t="Include" />
+          </e>
+          <e p="Enemy Behaviours" t="Include">
+            <e p="Attacks" t="Include">
+              <e p="ChargingAttack.cs" t="Include" />
+              <e p="IEnemyAttack.cs" t="Include" />
+              <e p="RescueUnicorn.cs" t="Include" />
+            </e>
+            <e p="EnemyBehaviour.cs" t="Include" />
+            <e p="EvadeBehaviour.cs" t="Include" />
+            <e p="IBehaviourWithInitialPosition.cs" t="Include" />
+            <e p="IBehaviourWithRange.cs" t="Include" />
+            <e p="LazyBehaviour.cs" t="Include" />
+            <e p="ProtectiveBehaviour.cs" t="Include" />
+            <e p="RescueBehaviour.cs" t="Include" />
+            <e p="States" t="Include">
+              <e p="!StateTemplate.cs" t="Include" />
+              <e p="ChargeAtPlayer.cs" t="Include" />
+              <e p="ChargeAttackRecoil.cs" t="Include" />
+              <e p="FindGuardTarget.cs" t="Include" />
+              <e p="IWaitableState.cs" t="Include" />
+              <e p="MaintainRangeFromTransform.cs" t="Include" />
+              <e p="MoveToRandomWithinCircle.cs" t="Include" />
+              <e p="MoveToTarget.cs" t="Include" />
+              <e p="MoveToTransform.cs" t="Include" />
+              <e p="RandomOnNavMesh.cs" t="Include" />
+              <e p="RunAwayFromTransform.cs" t="Include" />
+              <e p="StandAndWait.cs" t="Include" />
+              <e p="StareAtTransform.cs" t="Include" />
+              <e p="StartRunningAway.cs" t="Include" />
+              <e p="TargetPositionBetween.cs" t="Include" />
+              <e p="ToggleAttack.cs" t="Include" />
+              <e p="WalkCloseToPlayer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="FloatingPlatform.cs" t="Include" />
+          <e p="GameSystems" t="Include">
+            <e p="AudioController.cs" t="Include" />
+            <e p="CrossFade.cs" t="Include" />
+            <e p="HighscoreTable.cs" t="Include" />
+            <e p="ParticleSpawner.cs" t="Include" />
+            <e p="PointCollection.cs" t="Include" />
+            <e p="PointHandeler.cs" t="Include" />
+            <e p="SpawnSystem.cs" t="Include" />
+            <e p="StopFunctions.cs" t="Include" />
+            <e p="TimeLimit.cs" t="Include" />
+            <e p="UITimer.cs" t="Include" />
+            <e p="UnicornEnum.cs" t="Include" />
+            <e p="UnicornPool.cs" t="Include" />
+            <e p="UnicornStats.cs" t="Include" />
+            <e p="XRayFaceCamera.cs" t="Include" />
+          </e>
+          <e p="IMovingActor.cs" t="Include" />
+          <e p="ITriggerZone.cs" t="Include" />
+          <e p="MiniStun.cs" t="Include" />
+          <e p="PlayBounds.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="BalloonString.cs" t="Include" />
+            <e p="DropGum.cs" t="Include" />
+            <e p="NewPlayerMovement.cs" t="Include" />
+            <e p="PlayerInventory.cs" t="Include" />
+            <e p="PlayerSound.cs" t="Include" />
+            <e p="RigidbodyMovement.cs" t="Include" />
+          </e>
+          <e p="ProximityDetector.cs" t="Include" />
+          <e p="RotateBalloon.cs" t="Include" />
+          <e p="StartMenu" t="Include">
+            <e p="EndStartAnimation.cs" t="Include" />
+            <e p="HowToPlay.cs" t="Include" />
+            <e p="HowToPlayAnimatorController.cs" t="Include" />
+            <e p="StartMenu.cs" t="Include" />
+            <e p="WaitForBallons.cs" t="Include" />
+          </e>
+          <e p="TriggerHitter.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="s_ObstacleXRay.shader" t="Include" />
+          <e p="s_PlayerXray.shader" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="A File.txt" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Utils" t="Include">
+          <e p="Mathfs.cs" t="Include" />
+          <e p="MathfsExtensions.cs" t="Include" />
+          <e p="NavMeshComponents" t="Include">
+            <e p="Editor" t="Include">
+              <e p="NavMeshAssetManager.cs" t="Include" />
+              <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+              <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+              <e p="NavMeshLinkEditor.cs" t="Include" />
+              <e p="NavMeshModifierEditor.cs" t="Include" />
+              <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+              <e p="NavMeshSurfaceEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="NavMeshComponents.asmdef" t="Include" />
+              <e p="NavMeshLink.cs" t="Include" />
+              <e p="NavMeshModifier.cs" t="Include" />
+              <e p="NavMeshModifierVolume.cs" t="Include" />
+              <e p="NavMeshSurface.cs" t="Include" />
+            </e>
+          </e>
+          <e p="StateMachine.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Unicorn Trafficking.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
